@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ESLintProjectComponent">
+    <option name="eslintRcFile" value="C:\Users\dutra\WebstormProjects\gostack_frontend\.eslintrc.json" />
+    <option name="eslintExecutable" value="C:\Users\dutra\WebstormProjects\gostack_frontend\node_modules\.bin\eslint" />
+    <option name="nodeInterpreter" value="C:\Users\dutra\v10.18.0\node.exe" />
+    <option name="autoFix" value="true" />
+  </component>
+</project>
